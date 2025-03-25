@@ -8,3 +8,17 @@ This project presents the design and implementation of a dual-axis solar tracker
 Renewable energy is vital in addressing rising energy demands, reducing greenhouse gas emissions, and mitigating climate change. Among the various renewable sources, solar power is abundant and highly sustainable. However, traditional fixed solar panels are limited in efficiency due to their static orientation.
 
 To overcome this limitation, a dual-axis solar tracking system provides a promising solution. Unlike fixed systems, this tracker dynamically adjusts both horizontal and vertical angles to follow the sun's movement, significantly improving efficiency. This project employs an STM32 microcontroller for enhanced performance, precise control, and energy efficiency.
+
+## OBJECTIVE
+
+The primary objective of this project is to design and implement a cost-effective and efficient dual-axis solar tracking system using an STM32 microcontroller. Specific objectives include:
+
+- Maximize Solar Energy Harvesting.
+
+- Develop a Scalable and Modular Design.
+
+- Utilize Affordable and Readily Available Components.
+
+- Improve System Reliability.
+
+- Promote Sustainable Energy Solutions.
