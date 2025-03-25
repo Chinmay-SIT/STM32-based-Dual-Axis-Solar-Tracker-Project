@@ -63,3 +63,19 @@ The STM32-based dual-axis solar tracker achieved:
 
 Fig. Dual-axis solar panel tracker model reacting to the external light source
 
+## ADVANTAGES AND LIMITATIONS
+
+### Advantages:
+
+- Improved energy efficiency.
+
+- Enhanced precision and faster response using STM32.
+
+- Increased panel lifespan with optimized tracking.
+
+### Limitations:
+
+- Requires periodic maintenance.
+
+- Increased complexity compared to fixed solar panels.
+
