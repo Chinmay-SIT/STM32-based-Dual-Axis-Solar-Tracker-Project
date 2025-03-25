@@ -85,3 +85,14 @@ This project successfully demonstrates the potential of an STM32-based dual-axis
 
 Future improvements could involve enhancing system automation, incorporating IoT features for remote monitoring, and improving weather adaptability to maximize performance under diverse conditions.
 
+## REFERENCES
+
+1.STM32 Documentation: https://www.st.com/
+
+2.Solar Power Basics Guide.
+
+3.Gokul3799 / Dual-Axis-Solar-Tracking-System (GitHub)
+
+
+
+
