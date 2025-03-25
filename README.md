@@ -60,4 +60,5 @@ The STM32-based dual-axis solar tracker achieved:
 - Quick response time with precise motor control.
 
 ![image](https://github.com/user-attachments/assets/ee69bae3-40db-4519-aaf8-a82fc2e8ead4)
+Fig. Dual-axis solar panel tracker model reacting to the external light source
 
