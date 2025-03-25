@@ -79,3 +79,9 @@ Fig. Dual-axis solar panel tracker model reacting to the external light source
 
 - Increased complexity compared to fixed solar panels.
 
+## CONCLUSION
+
+This project successfully demonstrates the potential of an STM32-based dual-axis solar tracker in enhancing solar energy capture. By ensuring continuous alignment with the sun, the system achieved significant improvements in energy efficiency. The STM32 microcontroller provided reliable control, precision, and scalability for the system, making it a viable solution for renewable energy applications.
+
+Future improvements could involve enhancing system automation, incorporating IoT features for remote monitoring, and improving weather adaptability to maximize performance under diverse conditions.
+
