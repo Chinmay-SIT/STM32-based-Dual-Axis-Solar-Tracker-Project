@@ -53,8 +53,8 @@ Perform outdoor tests to evaluate system response to changing sunlight condition
 
 The STM32-based dual-axis solar tracker achieved:
 
-20-30% improvement in energy capture compared to fixed solar panels.
+- 20-30% improvement in energy capture compared to fixed solar panels.
 
-Reliable performance under varying weather conditions.
+- Reliable performance under varying weather conditions.
 
-Quick response time with precise motor control.
+- Quick response time with precise motor control.
