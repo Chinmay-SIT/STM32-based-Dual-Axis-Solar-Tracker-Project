@@ -25,25 +25,25 @@ The primary objective of this project is to design and implement a cost-effectiv
 
 ## METHODOLOGY
 
-1.Design and Assembly:
+### 1.Design and Assembly:
 
 Build a stable base structure for mounting motors and solar panels.
 
 Position four LDRs at strategic points to capture sunlight from multiple directions.
 
-2.Circuit Design:
+### 2.Circuit Design:
 
 Connect the STM32 microcontroller to LDRs, motors, and a stable power supply.
 
 Use resistors to calibrate the LDRs and ensure signal accuracy.
 
-3.Programming:
+### 3.Programming:
 
 Develop code in STM32CubeIDE using HAL libraries for motor control and sensor readings.
 
 Implement logic for motor control based on light intensity comparisons.
 
-4.Testing and Evaluation:
+### 4.Testing and Evaluation:
 
 Conduct indoor tests for calibration and motor control.
 
