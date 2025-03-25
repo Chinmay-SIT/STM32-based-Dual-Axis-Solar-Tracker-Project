@@ -58,3 +58,6 @@ The STM32-based dual-axis solar tracker achieved:
 - Reliable performance under varying weather conditions.
 
 - Quick response time with precise motor control.
+
+![image](https://github.com/user-attachments/assets/ee69bae3-40db-4519-aaf8-a82fc2e8ead4)
+
